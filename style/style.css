@@ -182,3 +182,44 @@
   background-color: white;
   color: #006A50;
 }
+
+.bangladesh-pillar{
+    margin-top: 80px;
+  }
+  
+  .bangladesh-pillar-title{
+      font-size: 40px;
+      font-weight: 700;
+      color: #0E0E0E;
+  }
+  
+  .pillar-cards{
+    margin-top: 32px;
+    display: flex;
+    gap: 24px;
+  }
+  
+  .pillar-card{
+    padding: 24px;
+    border: 1px solid #0E0E0E26;
+    border-radius: 16px;
+    background-color: #ffffff;
+    transition: all 1s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .pillar-card:hover{
+    background-color: #C6E4D6;
+  }
+  
+  .pillar-card-title{
+    font-weight: 700;
+    font-size: 20px;
+    color: #0E0E0ECC;
+  }
+  .pillar-desc{
+    font-size: 16px;
+    color: #0E0E0EB3;
+    line-height: 24px;
+  
+  }
