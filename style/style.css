@@ -599,7 +599,7 @@ footer{
   background-color: #ffffff;
 }
 .quote{
-  background-image: url("/assets/fi_2087863.png");
+  background-image: url("../assets/fi_2087863.png");
   background-repeat: no-repeat;
   height: min-content;
   font-size: 16px;
